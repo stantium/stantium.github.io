@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Stantium Company LLC</title>
-    <link href="https://stantium.github.io/feed.xml" rel="self" />
-    <link href="https://stantium.github.io" />
-    <updated>2020-03-04T12:36:24-05:00</updated>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2020-03-04T13:24:59-05:00</updated>
     <author>
         <name>Stantium Company LLC</name>
     </author>
-    <id>https://stantium.github.io</id>
+    <id></id>
 
     <entry>
         <title>WHAT WE CAN DO FOR YOU</title>
         <author>
             <name>Stantium Company LLC</name>
         </author>
-        <link href="https://stantium.github.io/what-we-can-do-for-you.html"/>
-        <id>https://stantium.github.io/what-we-can-do-for-you.html</id>
+        <link href="/what-we-can-do-for-you.html"/>
+        <id>/what-we-can-do-for-you.html</id>
 
-        <updated>2020-03-04T10:11:47-05:00</updated>
+        <updated>2020-03-04T13:10:36-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://stantium.github.io/media/posts/2/admin-ajax.jpg" alt="" />
+                        <img src="/media/posts/2/admin-ajax.jpg" alt="" />
                     Consult with you to locate or build an application that will accomplish your goalsDesign, build, or change spreadsheets, databases, and database queriesPrototype/mock-up apps and databasesBuild simple static websitesEnter, transform, and analyze your dataProvide computerized accounting and bookeeping servicesSupply Linux-based computers loaded with programs that get&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://stantium.github.io/media/posts/2/admin-ajax.jpg" alt="" />
+                    <img src="/media/posts/2/admin-ajax.jpg" alt="" />
                 <table width="80%" cellspacing="0" cellpadding="6">
 <tbody>
 <tr>
