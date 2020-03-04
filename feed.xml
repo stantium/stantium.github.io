@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Stantium Company LLC</title>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2020-03-04T10:40:30-05:00</updated>
+    <author>
+        <name>Stantium Company LLC</name>
+    </author>
+    <id></id>
+
+    <entry>
+        <title>WHAT WE CAN DO FOR YOU</title>
+        <author>
+            <name>Stantium Company LLC</name>
+        </author>
+        <link href="/what-we-can-do-for-you.html"/>
+        <id>/what-we-can-do-for-you.html</id>
+
+        <updated>2020-03-04T10:11:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/2/admin-ajax.jpg" alt="" />
+                    Consult with you to locate or build an application that will accomplish your goalsDesign, build, or change spreadsheets, databases, and database queriesPrototype/mock-up apps and databasesBuild simple static websitesEnter, transform, and analyze your dataProvide computerized accounting and bookeeping servicesSupply Linux-based computers loaded with programs that get&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/2/admin-ajax.jpg" alt="" />
+                <table width="80%" cellspacing="0" cellpadding="6">
+<tbody>
+<tr>
+<td valign="top" width="100%">
+<ul>
+<li>Consult with you to locate or build an application that will accomplish your goals</li>
+<li>Design, build, or change spreadsheets, databases, and database queries</li>
+<li>Prototype/mock-up apps and databases</li>
+<li>Build simple static websites</li>
+<li>Enter, transform, and analyze your data</li>
+<li>Provide computerized accounting and bookeeping services</li>
+<li>Supply Linux-based computers loaded with programs that get things done</li>
+<li>Tutor and support you one-on-one</li>
+</ul>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="100%">
+<p align="left"><span style="font-family: 'Microsoft Sans Serif', sans-serif;">May we find, design, and/or build a solution for you? If so, please contact us. 313.348.9400</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+</feed>
