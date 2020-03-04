@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c28b260ebd573b187dbd5baf3d8c6ac5"
+        "md5": "48a8901d7d5a6d23a2a616cf7ab52cf8"
     },
     {
         "path": "assets",
@@ -117,22 +117,22 @@
     {
         "path": "/authors/stantium-company-llc/index.html",
         "type": "file",
-        "md5": "e949fd82b0efd870e2352adeb80ad9fa"
+        "md5": "2b9e45cd3670159835dce6d395f8cb61"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8342fde547c5542ac4b3f1eca2ac8b2c"
+        "md5": "63bbe3af47a1ed7b8dd8dd084b2efc15"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1224553a25bc03d64032a87f71c8c88c"
+        "md5": "ab30520e65a904b0ee84b049c1d845a4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "86fe493bd0c1b60e8d757399b1e0606c"
+        "md5": "29a3d0806c0b0848a0967b6d6d3bc04c"
     },
     {
         "path": "media",
@@ -242,12 +242,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "954b3c83ebeed4495c0f7ceffe07a0c4"
+        "md5": "6f3d22baeb8fd8eab4b7a20c6d1d8de2"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "983ee78bf8dae581d37ce6d269a06b63"
+        "md5": "e5b4b0d361c855452beca436983ffdf1"
     },
     {
         "path": "sitemap.xsl",
@@ -257,6 +257,6 @@
     {
         "path": "what-we-can-do-for-you.html",
         "type": "file",
-        "md5": "f864f6faefe683e7c0e1a406c8220cd5"
+        "md5": "bec1fd15dcf331dbf79902449745385e"
     }
 ]
