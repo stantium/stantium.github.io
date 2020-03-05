@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9545f3781bef1089a28d8e6241a6f176"
+        "md5": "bfd25ffe800dd3b1335ffa67184d4811"
     },
     {
         "path": "assets",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/stantium-company-llc/index.html",
         "type": "file",
-        "md5": "efb983bb7ad5158d806cb695913ad555"
+        "md5": "3aceb98a6fdf04d749d5efcac4e326ba"
     },
     {
         "path": "feed.json",
@@ -127,12 +127,12 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e1df3a616e51e4a8f1b0d217f6288b6d"
+        "md5": "176c7d4a4ed060f9caa4139b999a8678"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a4762b08dc351f94201b7c8aec692016"
+        "md5": "a5d5b0c4dbf5a44bf1a06466a3ce5c70"
     },
     {
         "path": "media",
@@ -242,7 +242,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "8580aae2e20a43e0486da0816d8d6516"
+        "md5": "b0e66ebc38d87e6456bacdda88a4dae6"
     },
     {
         "path": "sitemap.xml",
@@ -257,11 +257,11 @@
     {
         "path": "the-hvac-technicians-tool-online.html",
         "type": "file",
-        "md5": "04c698efa07877924e2ed9efac4d5fb8"
+        "md5": "753b728600906a932fbd01da5bd10532"
     },
     {
         "path": "what-we-can-do-for-you.html",
         "type": "file",
-        "md5": "1c284f61997e9e890969bed5035852aa"
+        "md5": "4aaf9023cc8f5bbd23981512d7d6400a"
     }
 ]
