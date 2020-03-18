@@ -122,17 +122,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8827a8eaad41444fad6dc5a3422075fa"
+        "md5": "a1e9f3edcde136d5e29410d53d798d55"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "74e84b5a15b848e2ea1b966ec4250beb"
+        "md5": "96775bdec86ae7c486e379f5489a4058"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "cc374e887833aecf7a6645adbcdcf386"
+        "md5": "85572026c04d487016832f8a6d31c1d3"
     },
     {
         "path": "media",
@@ -312,6 +312,6 @@
     {
         "path": "whats-new.html",
         "type": "file",
-        "md5": "1d306282c7d28e0d5bb8ef3e45e9d19f"
+        "md5": "c91d23491eff835b40aa2cd0985cd024"
     }
 ]
