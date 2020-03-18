@@ -10,24 +10,25 @@
     },
     "items": [
         {
-            "id": "/the-hvac-technicians-tool-online.html",
-            "url": "/the-hvac-technicians-tool-online.html",
-            "title": "The HVAC Technician&#x27;s Tool Online",
-            "summary": "Test 393b3d bottom was 28",
-            "content_html": "<table style=\"height: 800px; width: 700px; border: none;\">\n<tbody>\n<tr style=\"border: none;\">\n<td style=\"border: none; padding: 0in; width: 700px;\" valign=\"top\">\n<div id=\"Wrapper\"><center><iframe width=\"700px\" height=\"800px\" frameborder=\"0\" scrolling=\"no\" src=\"https://onedrive.live.com/embed?resid=DF4E2DEB15A58F7C%21138&amp;authkey=%21ACxbWkHjIfnu4y0&amp;em=2&amp;wdAllowInteractivity=False&amp;AllowTyping=True&amp;ActiveCell='Help'!B2&amp;wdHideGridlines=True&amp;wdHideHeaders=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True\"></iframe>\n<div style=\"position: relative; z-index: 50; right: 0px; bottom: 33px; height: 28px; width: 700px; background-color: black;\">Test 393b3d bottom was 28</div>\n</center></div>\n</td>\n</tr>\n</tbody>\n</table>",
+            "id": "/whats-new.html",
+            "url": "/whats-new.html",
+            "title": "COVID-19 &amp; the State of Michigan",
+            "summary": "Wednesday 3/18/2020: Governor Whitmer was a guest on Monday's Morning Joe program. During the discussion she mentioned the following:The State of Michigan declared a State&hellip;",
+            "content_html": "<p><strong><span style=\"text-decoration: underline;\">Wednesday 3/18/2020: </span></strong></p>\n<p>Governor Whitmer was a guest on Monday's Morning Joe program.  During the discussion she mentioned the following:</p>\n<ul>\n<li>The State of Michigan declared a State of Emergancy before the national government did</li>\n<li>Michigan processes 100 COVID-19 tests a day; however more kits and chemicals are needed</li>\n<li>The State has reached out to private firms to manufacturer medical gowns and other needs</li>\n</ul>",
+            "image": "/media/posts/4/admin-ajax.jpg",
             "author": {
                 "name": "Stantium Company LLC"
             },
             "tags": [
             ],
-            "date_published": "2020-03-04T21:25:53-05:00",
-            "date_modified": "2020-03-04T23:45:05-05:00"
+            "date_published": "2020-03-18T07:53:23-04:00",
+            "date_modified": "2020-03-18T08:30:00-04:00"
         },
         {
             "id": "/what-we-can-do-for-you.html",
             "url": "/what-we-can-do-for-you.html",
             "title": "WHAT WE CAN DO FOR YOU",
-            "summary": "Consult with you to locate or build an application that will accomplish your goalsDesign, build, or change spreadsheets, databases, and database queriesPrototype/mock-up apps and databasesBuild simple static websitesEnter, transform, and analyze your dataProvide computerized accounting and bookeeping servicesSupply Linux-based computers loaded with programs that get&hellip;",
+            "summary": "Consult with you to locate or build an application that will accomplish your goalsDesign, build, or change spreadsheets, databases, and database queriesPrototype/mock-up apps and databasesBuild&hellip;",
             "content_html": "<table width=\"80%\" cellspacing=\"0\" cellpadding=\"6\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<ul>\n<li>Consult with you to locate or build an application that will accomplish your goals</li>\n<li>Design, build, or change spreadsheets, databases, and database queries</li>\n<li>Prototype/mock-up apps and databases</li>\n<li>Build simple static websites</li>\n<li>Enter, transform, and analyze your data</li>\n<li>Provide computerized accounting and bookeeping services</li>\n<li>Supply Linux-based computers loaded with programs that get things done</li>\n<li>Tutor and support you one-on-one</li>\n</ul>\n<p> </p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<p align=\"left\"><span style=\"font-family: 'Microsoft Sans Serif', sans-serif;\">May we find, design, and/or build a solution for you? If so, please contact us. 313.348.9400</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
             "image": "/media/posts/2/admin-ajax.jpg",
             "author": {
@@ -36,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2020-03-04T09:57:07-05:00",
-            "date_modified": "2020-03-04T15:41:57-05:00"
+            "date_modified": "2020-03-05T02:59:06-05:00"
         }
     ]
 }
