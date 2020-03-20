@@ -117,22 +117,22 @@
     {
         "path": "/authors/stantium-company-llc/index.html",
         "type": "file",
-        "md5": "e53aea669786379573597c3112a3ec01"
+        "md5": "86ddcee0ff32c788aa091cff25203a98"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "7ec379a52ab6da1e3c3549aebb1c8e11"
+        "md5": "4167efe10e1eadd8c654a6982297cecd"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2bc9c35605557555bf08a84849684b13"
+        "md5": "74f2a0e3d9565b0e67d059d36b2d7e54"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "9b9c4c635abc2337020dae55b468bcc0"
+        "md5": "e49e45c7d9bd74cfcd522f688581201b"
     },
     {
         "path": "media",
@@ -245,9 +245,44 @@
         "md5": false
     },
     {
+        "path": "/media/posts/6/CodeGraphic2.jpg",
+        "type": "file",
+        "md5": "3cc58ced2bbe577dd4472dc3262d4aa4"
+    },
+    {
         "path": "media/posts/6/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/CodeGraphic2-2xl.jpg",
+        "type": "file",
+        "md5": "a3c74549b8970ac5b8373dbc73f34bf3"
+    },
+    {
+        "path": "/media/posts/6/responsive/CodeGraphic2-lg.jpg",
+        "type": "file",
+        "md5": "a3c74549b8970ac5b8373dbc73f34bf3"
+    },
+    {
+        "path": "/media/posts/6/responsive/CodeGraphic2-md.jpg",
+        "type": "file",
+        "md5": "a3c74549b8970ac5b8373dbc73f34bf3"
+    },
+    {
+        "path": "/media/posts/6/responsive/CodeGraphic2-sm.jpg",
+        "type": "file",
+        "md5": "a3c74549b8970ac5b8373dbc73f34bf3"
+    },
+    {
+        "path": "/media/posts/6/responsive/CodeGraphic2-xl.jpg",
+        "type": "file",
+        "md5": "a3c74549b8970ac5b8373dbc73f34bf3"
+    },
+    {
+        "path": "/media/posts/6/responsive/CodeGraphic2-xs.jpg",
+        "type": "file",
+        "md5": "3bdd7657e65af61011898a897ee32341"
     },
     {
         "path": "/media/posts/6/responsive/SPF-Ad-01b-2xl.PNG",
@@ -332,7 +367,7 @@
     {
         "path": "products.html",
         "type": "file",
-        "md5": "d8297bcb4e8d6aedeb9c09b178741281"
+        "md5": "646200167a2a87b33d17c886ea675b96"
     },
     {
         "path": "search.html",

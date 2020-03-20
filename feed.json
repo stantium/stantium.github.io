@@ -13,15 +13,16 @@
             "id": "/products.html",
             "url": "/products.html",
             "title": "Products ",
-            "summary": "Stantium Company builds apps and other software to help you accomplish your goals. ",
-            "content_html": "<p id=\"mcetoc_1e3sutcgu0\">Stantium Company builds apps and other software to help you accomplish your goals. </p>\n<h4 id=\"mcetoc_1e3sutu6d1\"><img class=\"post__image\" src=\"/media/posts/6/SPF-Ad-01b.PNG\" alt=\"\" width=\"570\" height=\"373\"></h4>",
+            "summary": "Stantium Company builds apps and other software to help you accomplish your goals. ",
+            "content_html": "<p id=\"mcetoc_1e3sutcgu0\" class=\"align-center\">Stantium Company builds apps and other software to help you accomplish your goals. </p>\n<h4 id=\"mcetoc_1e3sutu6d1\"><img class=\"post__image\" src=\"/media/posts/6/SPF-Ad-01b.PNG\" alt=\"\" width=\"570\" height=\"373\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"></h4>\n<h4 id=\"mcetoc_1e3t33vap0\"><input name=\"hosted_button_id\" type=\"hidden\" value=\"KW3CCL9N2RXR4\"> <input alt=\"PayPal - The safer, easier way to pay online!\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif\" type=\"image\"> <img class=\"align-center\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"></h4>",
+            "image": "/media/posts/6/CodeGraphic2.jpg",
             "author": {
                 "name": "Stantium Company LLC"
             },
             "tags": [
             ],
             "date_published": "2020-03-20T17:48:07-04:00",
-            "date_modified": "2020-03-20T17:56:34-04:00"
+            "date_modified": "2020-03-20T19:05:48-04:00"
         },
         {
             "id": "/what-we-can-do-for-you.html",
