@@ -10,19 +10,18 @@
     },
     "items": [
         {
-            "id": "/whats-new.html",
-            "url": "/whats-new.html",
-            "title": "COVID-19 &amp; the State of Michigan",
-            "summary": "Wednesday 3/18/2020: Governor Whitmer was a guest on Monday's Morning Joe program. During the discussion she mentioned the following:The State of Michigan declared a State&hellip;",
-            "content_html": "<strong><span style=\"text-decoration: underline;\">Wednesday 3/18/2020: </span></strong><br>Governor Whitmer was a guest on Monday's Morning Joe program.  During the discussion she mentioned the following:\n<ul>\n<li>The State of Michigan declared a State of Emergancy before the national government did</li>\n<li>Michigan processes 100 COVID-19 tests a day; however more kits and chemicals are needed</li>\n<li>The State has reached out to private firms to manufacturer medical gowns and other needs</li>\n</ul>",
-            "image": "/media/posts/4/admin-ajax.jpg",
+            "id": "/products.html",
+            "url": "/products.html",
+            "title": "Products ",
+            "summary": "Stantium Company builds apps and other software to help you accomplish your goals. ",
+            "content_html": "<p id=\"mcetoc_1e3sutcgu0\">Stantium Company builds apps and other software to help you accomplish your goals. </p>\n<h4 id=\"mcetoc_1e3sutu6d1\"><img class=\"post__image\" src=\"/media/posts/6/SPF-Ad-01b.PNG\" alt=\"\" width=\"570\" height=\"373\"></h4>",
             "author": {
                 "name": "Stantium Company LLC"
             },
             "tags": [
             ],
-            "date_published": "2020-03-18T07:53:23-04:00",
-            "date_modified": "2020-03-18T10:28:54-04:00"
+            "date_published": "2020-03-20T17:48:07-04:00",
+            "date_modified": "2020-03-20T17:56:34-04:00"
         },
         {
             "id": "/what-we-can-do-for-you.html",
