@@ -12,9 +12,9 @@
         {
             "id": "/products.html",
             "url": "/products.html",
-            "title": "Products ",
-            "summary": "Stantium Company builds apps and other software to help you accomplish your goals. ",
-            "content_html": "<p id=\"mcetoc_1e3sutcgu0\" class=\"align-center\">Stantium Company builds apps and other software to help you accomplish your goals. </p>\n<h4 id=\"mcetoc_1e3sutu6d1\"><img class=\"post__image\" src=\"/media/posts/6/SPF-Ad-01b.PNG\" alt=\"\" width=\"570\" height=\"373\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"></h4>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"> <input name=\"hosted_button_id\" type=\"hidden\" value=\"SFA2X3WSAUU68\"> <input alt=\"PayPal - The safer, easier way to pay online!\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif\" type=\"image\"> <img src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"></form>",
+            "title": "Apps ",
+            "summary": "Stantium Company provides apps and other software to help you accomplish your goals.",
+            "content_html": "<p>Stantium Company provides apps and other software to help you accomplish your goals.</p>\n <img class=\"post__image\" src=\"/media/posts/6/SPF-Ad-01b.PNG\" alt=\"\" width=\"570\" height=\"373\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"><br> This spreadsheet app requires the desktop version of Microsoft Excel 2016.<br><br> Stantium Personal Finance v 1.04 -  $25 <br><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<p><input alt=\"PayPal - The safer, easier way to pay online!\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif\" type=\"image\"> <img src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"></p>\n</form>",
             "image": "/media/posts/6/CodeGraphic2.jpg",
             "author": {
                 "name": "Stantium Company LLC"
@@ -22,13 +22,13 @@
             "tags": [
             ],
             "date_published": "2020-03-20T17:48:07-04:00",
-            "date_modified": "2020-03-20T19:33:41-04:00"
+            "date_modified": "2020-03-20T20:17:09-04:00"
         },
         {
             "id": "/what-we-can-do-for-you.html",
             "url": "/what-we-can-do-for-you.html",
             "title": "WHAT WE CAN DO FOR YOU",
-            "summary": "Consult with you to locate or build an application that will accomplish your goalsDesign, build, or change spreadsheets, databases, and database queriesPrototype/mock-up apps and databasesBuild&hellip;",
+            "summary": "Consult with you to locate or build an application that will accomplish your&hellip;",
             "content_html": "<table width=\"80%\" cellspacing=\"0\" cellpadding=\"6\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<ul>\n<li>Consult with you to locate or build an application that will accomplish your goals</li>\n<li>Design, build, or change spreadsheets, databases, and database queries</li>\n<li>Prototype/mock-up apps and databases</li>\n<li>Build simple static websites</li>\n<li>Enter, transform, and analyze your data</li>\n<li>Provide computerized accounting and bookeeping services</li>\n<li>Supply Linux-based computers loaded with programs that get things done</li>\n<li>Tutor and support you one-on-one</li>\n</ul>\n<p> </p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<p align=\"left\"><span style=\"font-family: 'Microsoft Sans Serif', sans-serif;\">May we find, design, and/or build a solution for you? If so, please contact us. 313.348.9400</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
             "image": "/media/posts/2/admin-ajax.jpg",
             "author": {
