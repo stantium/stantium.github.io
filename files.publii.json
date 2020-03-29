@@ -117,22 +117,22 @@
     {
         "path": "/authors/stantium-company-llc/index.html",
         "type": "file",
-        "md5": "ab0f353dbafd19ed6b7369fba422df61"
+        "md5": "0e63cf40905c9d600d900dfa781180ca"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "dc76db99e393be393cc14281d1e1eb17"
+        "md5": "5c27a4e579f4427f273e7697c2459b35"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e7c80b76057672d757357f6e2970bd0c"
+        "md5": "bc82f1542c0859bf4a42025bd0b95568"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "be137a82d2106aa02843c9400c224353"
+        "md5": "ab68dcf6a059799da9db50d4a0462880"
     },
     {
         "path": "media",
@@ -367,7 +367,7 @@
     {
         "path": "products.html",
         "type": "file",
-        "md5": "5a5ff6f4e85a4f75b0363b876703e446"
+        "md5": "a4e8dfac21318a400eb65ac0f3f2082e"
     },
     {
         "path": "search.html",
