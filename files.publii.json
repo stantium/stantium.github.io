@@ -122,12 +122,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5c27a4e579f4427f273e7697c2459b35"
+        "md5": "321b17bd6a5466854f6ba5bdd733bc6b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "bc82f1542c0859bf4a42025bd0b95568"
+        "md5": "0a5fede849c669b86ea7f96438923380"
     },
     {
         "path": "index.html",
@@ -367,7 +367,7 @@
     {
         "path": "products.html",
         "type": "file",
-        "md5": "a4e8dfac21318a400eb65ac0f3f2082e"
+        "md5": "e1e3d342597205e3a4477c90e9a2ddd9"
     },
     {
         "path": "search.html",
