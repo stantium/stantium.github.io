@@ -117,17 +117,17 @@
     {
         "path": "/authors/stantium-company-llc/index.html",
         "type": "file",
-        "md5": "7758a996b237e11fac2c5dd056096397"
+        "md5": "996a6bd1713648d078aebe63a0d62417"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "321b17bd6a5466854f6ba5bdd733bc6b"
+        "md5": "19a84e32837707896e4557961c0736da"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8571a20712bcd20b398fe932fc7c636f"
+        "md5": "c3c3fc12cff1f23ec38ff06c21ad6aa2"
     },
     {
         "path": "index.html",
@@ -392,7 +392,7 @@
     {
         "path": "what-we-can-do-for-you.html",
         "type": "file",
-        "md5": "62125c9b60de46fec903240245c6d65d"
+        "md5": "4ca774935d9bd7852ee41aea4ac8d179"
     },
     {
         "path": "whats-new.html",

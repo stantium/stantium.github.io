@@ -28,8 +28,8 @@
             "id": "/what-we-can-do-for-you.html",
             "url": "/what-we-can-do-for-you.html",
             "title": "WHAT WE CAN DO FOR YOU",
-            "summary": "Consult with you to locate or build an application that will accomplish your&hellip;",
-            "content_html": "<table width=\"80%\" cellspacing=\"0\" cellpadding=\"6\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<ul>\n<li>Consult with you to locate or build an application that will accomplish your goals</li>\n<li>Design, build, or change spreadsheets, databases, and database queries</li>\n<li>Prototype/mock-up apps and databases</li>\n<li>Build simple static websites</li>\n<li>Enter, transform, and analyze your data</li>\n<li>Provide computerized accounting and bookeeping services</li>\n<li>Supply Linux-based computers loaded with programs that get things done</li>\n<li>Tutor and support you one-on-one</li>\n</ul>\n<p> </p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<p align=\"left\"><span style=\"font-family: 'Microsoft Sans Serif', sans-serif;\">May we find, design, and/or build a solution for you? If so, please contact us. 313.348.9400</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "summary": "Consult with you to build or locate software that will accomplish your goalsDesign,&hellip;",
+            "content_html": "<table width=\"80%\" cellspacing=\"0\" cellpadding=\"6\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<ul>\n<li>Consult with you to build or locate software that will accomplish your goals</li>\n<li>Design, build, or change spreadsheets, databases, and database queries using Excel, VBA, Microsoft SQL Server, Microsoft Access, and SQLite</li>\n<li>Prototype/mock-up apps and databases</li>\n<li>Build simple static websites</li>\n<li>Enter, transform, and analyze your data</li>\n<li>Provide computerized accounting and bookeeping services</li>\n<li>Supply Linux-based computers loaded with programs that get things done</li>\n<li>Tutor and support you one-on-one</li>\n</ul>\n<p> </p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"100%\">\n<p align=\"left\"><span style=\"font-family: 'Microsoft Sans Serif', sans-serif;\">May we find, design, and/or build a solution for you? If so, please contact us. 313.348.9400</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
             "image": "/media/posts/2/admin-ajax.jpg",
             "author": {
                 "name": "Stantium Company LLC"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2020-03-04T09:57:07-05:00",
-            "date_modified": "2020-03-05T02:59:06-05:00"
+            "date_modified": "2020-04-30T08:39:57-04:00"
         }
     ]
 }
